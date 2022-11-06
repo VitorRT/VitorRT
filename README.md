@@ -35,3 +35,5 @@
     <img align="center" alt="Rafa-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg">
     <img align="center" alt="Rafa-Js" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png">
   </div>
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
