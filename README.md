@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank">
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/736x/d2/d1/e6/d2d1e6c295865bcb8892d2240d94298d.jpg">
+    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://aniyuki.com/wp-content/uploads/2021/08/aniyuki-gif-naruto-31.gif">
   </div>
   
   ##
