@@ -2,8 +2,8 @@
 #### Um programador com mentalidade de growth 📈
 
 - 🔭 Open to work!
-- ⚡ Programador Front-end
-- 💻 Projeto Atual: CS Miner ⛏ ( Flowing... )
+- ⚡ Programador Back-end
+- 💻 Projeto Atual: GoDropi! ⛏ ( Flowing... )
 - 💬 Adoro conversar!
 - 😄 Pronome: Ele/Dele
 - 💌 Contato: vitu.barberino@gmail.com
