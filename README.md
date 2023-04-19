@@ -3,7 +3,7 @@
 
 - 🔭 Open to work!
 - ⚡ Programador Back-end
-- 💻 Projeto Atual: GoDropi! ⛏ ( Flowing... )
+- 💻 Projeto Atual: Nimex 🎴 ( Flowing... )
 - 💬 Adoro conversar!
 - 😄 Pronome: Ele/Dele
 - 💌 Contato: vitu.barberino@gmail.com
