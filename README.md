@@ -1,5 +1,5 @@
 ### Eaii, 'bele'? Eu sou o Victor 🤙
-#### Um programador com mentalidade de growth 📈
+#### Um programador back-end java ☕
 
 - 🔭 Open to work!
 - ⚡ Programador Back-end
