@@ -22,7 +22,6 @@
     <img src="https://img.shields.io/badge/Hibernate-814C19?style=for-the-badge&logo=hibernate&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/JavaEE6+-367AE3?style=for-the-badge&logo=javaee&logoColor=white" target="_blank">
-    <img src="https://img.shields.io/badge/Rest%20&%20MVC-ECCB47?style=for-the-badge&logo=rest&logoColor=black" target="_blank">
     <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://aniyuki.com/wp-content/uploads/2021/08/aniyuki-gif-naruto-31.gif">
   </div>
    
