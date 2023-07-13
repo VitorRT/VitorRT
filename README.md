@@ -1,10 +1,10 @@
-### Eaii, 'bele'? Eu sou o Victor 🤙
+### Olá, me chamo Victor Sousa Barberino 👋
 #### Um programador back-end java ☕
 
 - 🔭 Open to work!
-- ⚡ Programador Back-end
-- 💻 Projeto Atual: Nimex 🎴 ( Flowing... )
-- 💬 Adoro conversar!
+- ⚡ Boas práticas e performance 
+- 💻 Desenvolvedor back-end - Java
+- 💬 Excelente comunicação em equipe e com outras áreas!
 - 😄 Pronome: Ele/Dele
 - 💌 Contato: vitu.barberino@gmail.com
 
@@ -17,12 +17,12 @@
 </div>
 
   <div>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Spring%20Framework-7CD12A?style=for-the-badge&logo=spring&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Hibernate-814C19?style=for-the-badge&logo=hibernate&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/JavaEE6+-367AE3?style=for-the-badge&logo=javaee&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Rest%20&%20MVC-ECCB47?style=for-the-badge&logo=rest&logoColor=black" target="_blank">
     <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://aniyuki.com/wp-content/uploads/2021/08/aniyuki-gif-naruto-31.gif">
   </div>
    
