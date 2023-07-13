@@ -18,7 +18,7 @@
 
   <div>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank">
-    <img src="https://img.shields.io/badge/Spring%20Framework-7CD12A?style=for-the-badge&logo=spring&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Spring%20Framework-69B316?style=for-the-badge&logo=spring&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/Hibernate-814C19?style=for-the-badge&logo=hibernate&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/JavaEE6+-367AE3?style=for-the-badge&logo=javaee&logoColor=white" target="_blank">
