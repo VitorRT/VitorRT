@@ -1,7 +1,6 @@
 ### Olá, me chamo Victor Sousa Barberino 👋
 #### Um programador back-end java ☕
 
-- 🔭 Open to work!
 - ⚡ Boas práticas e performance 
 - 💻 Desenvolvedor back-end - Java
 - 💬 Excelente comunicação em equipe e com outras áreas!
